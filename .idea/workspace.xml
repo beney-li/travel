@@ -4,8 +4,7 @@
     <list default="true" id="fac01f76-0f6a-4d78-af6e-4d5c6c6d970a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/pages/city/City.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/city/City.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/city/components/Alphabet.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/city/components/Alphabet.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/city/components/List.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/city/components/List.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/city/components/Search.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/city/components/Search.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/city/components/Search.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="223">
-              <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
+            <state relative-caret-position="176">
+              <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
             </state>
           </provider>
         </entry>
@@ -36,11 +35,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/city/components/Alphabet.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+            <state relative-caret-position="88">
+              <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -66,8 +65,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/city/City.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
+            <state relative-caret-position="66">
+              <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -115,12 +114,12 @@
         <option value="$PROJECT_DIR$/src/router/index.js" />
         <option value="$PROJECT_DIR$/src/assets/styles/varibles.styl" />
         <option value="$PROJECT_DIR$/src/pages/home/components/Header.vue" />
-        <option value="$PROJECT_DIR$/src/pages/city/components/Search.vue" />
         <option value="$PROJECT_DIR$/src/pages/city/components/Header.vue" />
         <option value="$PROJECT_DIR$/static/mock/city.json" />
-        <option value="$PROJECT_DIR$/src/pages/city/City.vue" />
         <option value="$PROJECT_DIR$/src/pages/city/components/List.vue" />
         <option value="$PROJECT_DIR$/src/pages/city/components/Alphabet.vue" />
+        <option value="$PROJECT_DIR$/src/pages/city/City.vue" />
+        <option value="$PROJECT_DIR$/src/pages/city/components/Search.vue" />
       </list>
     </option>
   </component>
@@ -229,19 +228,19 @@
       <workItem from="1566993032121" duration="3742000" />
       <workItem from="1567000034705" duration="4333000" />
       <workItem from="1567037513522" duration="7576000" />
-      <workItem from="1567046658695" duration="13638000" />
+      <workItem from="1567046658695" duration="18017000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="58269000" />
+    <option name="totallyTimeSpent" value="62648000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1073" y="3" width="851" height="627" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24723247" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4989858" visible="true" weight="0.15498155" />
+      <window_info active="true" id="Structure" order="1" sideWeight="0.5010142" side_tool="true" visible="true" weight="0.15498155" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286004" />
@@ -414,24 +413,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/city/components/Search.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="223">
-          <caret line="12" column="10" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/home/components/Recommend.vue">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
           <caret line="4" column="56" selection-start-line="4" selection-start-column="56" selection-end-line="4" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/city/City.vue">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="4" column="64" selection-start-line="4" selection-start-column="64" selection-end-line="4" selection-end-column="64" />
         </state>
       </provider>
     </entry>
@@ -444,8 +429,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/city/components/Alphabet.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+        <state relative-caret-position="88">
+          <caret line="46" column="29" lean-forward="true" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/city/City.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="32" selection-start-line="3" selection-start-column="32" selection-end-line="3" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/pages/city/components/Search.vue">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="7" column="78" selection-start-line="7" selection-start-column="78" selection-end-line="7" selection-end-column="78" />
         </state>
       </provider>
     </entry>
