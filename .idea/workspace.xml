@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fac01f76-0f6a-4d78-af6e-4d5c6c6d970a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/pages/detail/components/Header.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/detail/Detail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/detail/Detail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pages/detail/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/detail/components/Header.vue" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/pages/detail/components/Header.vue">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+            <state relative-caret-position="399">
+              <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -212,12 +210,12 @@
       <workItem from="1567000034705" duration="4333000" />
       <workItem from="1567037513522" duration="7576000" />
       <workItem from="1567046658695" duration="22327000" />
-      <workItem from="1567124367846" duration="19765000" />
+      <workItem from="1567124367846" duration="20505000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="86723000" />
+    <option name="totallyTimeSpent" value="87463000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1078" y="0" width="851" height="627" extended-state="0" />
@@ -492,8 +490,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/detail/components/Header.vue">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="38" column="43" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        <state relative-caret-position="399">
+          <caret line="52" column="58" selection-start-line="52" selection-start-column="58" selection-end-line="52" selection-end-column="58" />
         </state>
       </provider>
     </entry>
